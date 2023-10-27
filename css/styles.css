@@ -11023,6 +11023,7 @@ footer.footer .social-link:hover {
   font-size: 4rem;
   margin: 0;
   padding: 0;
+  color: white;
 }
 @media (min-width: 992px) {
   .masthead {
